@@ -4,7 +4,7 @@ spring:
   application:
     name: Wipro-Security
   datasource:
-    url: jdbc:mysql://localhost:3306/sharathkumar
+    url: jdbc:mysql://localhost:3306/nithishkumar
     username: root
     password: root
   jpa:

@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class WiproSecurityApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(WiproSecurityApplication.class, args);
 	}
-
 }
